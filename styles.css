@@ -40,9 +40,10 @@ body{
     margin-bottom: 1rem;
 }
 
-.container h1{
+.container h2{
     color:var(--Dark-blue);
     text-align: center;
+    margin-bottom: 1rem;
 }
 
 .container p{
@@ -51,7 +52,7 @@ body{
 }
 
 .attribution {
-    font-size: 12px;
+    font-size: 11px;
     text-align: center;
   }
 
